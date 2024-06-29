@@ -1,0 +1,62 @@
+body
+{
+    background-image: url("../images/f2.jpg");
+    background-size: cover;
+}
+nav
+{
+    
+    padding: 7px;
+}
+
+nav>div>a
+{
+    color:rgb(232, 181, 12);
+    text-decoration: none;
+    font-family: cursive;
+    font-weight: bold;
+    font-size: 30px;
+    margin-left: 80px;
+    
+}
+nav>div>span>a
+{
+    margin-left: 70px;
+    color: white;
+    text-decoration: none;
+    font-family: cursive;
+}
+
+
+.abc
+{
+    background-color: rgb(251, 205, 4);
+    color: rgb(36, 1, 1);
+    padding: 5px;
+    border-radius:100% ;
+    
+}
+.abc:hover
+{
+    box-shadow: 0 0 10px whitesmoke;
+}
+section
+{
+    margin:300px ;
+    margin-left: 400px;
+    margin-right: 500px;
+    
+}
+section h3
+{
+    
+    color:azure;
+    font-size: 15px;
+    font-family: cursive;
+}
+section h3:hover,nav>div>span>a:hover
+
+{
+    color: rgb(252, 215, 49);
+}
+
